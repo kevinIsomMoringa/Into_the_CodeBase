@@ -13,3 +13,4 @@ down the projects lifeline
 
 Links To refer to:
 - https://www.freecodecamp.org/news/taking-over-an-existing-project/
+- https://understandlegacycode.com/getting-into-large-codebase/
