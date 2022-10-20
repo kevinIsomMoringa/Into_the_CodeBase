@@ -13,6 +13,7 @@
 - Object Oriented programming(OOP)
 - Automating repeated action in the terminal using Bash Scripting
 - Setting Up to use SSH and HTTPS in Github via Git
+- What is Factory Pattern/Method in Software development
 - Best Coding practices so far....
 
 ***Topics learnt in Moringa School Core***
